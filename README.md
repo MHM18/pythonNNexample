@@ -9,3 +9,7 @@ PythonNNExampleFromSirajology.py This is just Python script. Annotations appear 
 
 Scott Morgan, 
 November 2016
+
+But what *is* a Neural Network? | Chapter 1, deep learning
+https://www.youtube.com/watch?v=aircAruvnKk
+
